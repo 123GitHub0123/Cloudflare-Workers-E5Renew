@@ -17,5 +17,6 @@ crons = ["*/30 * * * *"]
 
 [[kv_namespaces]]
     binding = "Token"
-    id = "YOUR_KV_ID"
+    id = "f961401966e74349b876efa358485cc5"
     preview_id = ""
+
