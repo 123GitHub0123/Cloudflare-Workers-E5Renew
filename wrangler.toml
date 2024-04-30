@@ -19,3 +19,5 @@ crons = ["*/30 * * * *"]
     binding = "Token"
     id = "f961401966e74349b876efa358485cc5"
     preview_id = ""
+[placement]
+mode = "smart"
